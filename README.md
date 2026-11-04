@@ -1,4 +1,6 @@
-# React + Vite
+# DragCV
+
+[Live Demo](https://dimaaladaci.github.io/DragCV/)
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
 
