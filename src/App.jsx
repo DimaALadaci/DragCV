@@ -26,7 +26,7 @@ function App() {
       <header className="app-header no-print">
         <div className="app-header-content">
           <div className="brand">
-            <img className="brand-logo" src="/branding/dragcv-logo.webp" alt="" width="42" height="42" />
+            <img className="brand-logo" src={`${import.meta.env.BASE_URL}branding/dragcv-logo.webp`} alt="" width="42" height="42" />
             <div>
               <h1 className="app-title">DragCV</h1>
               <p className="brand-caption">Resume Builder</p>
